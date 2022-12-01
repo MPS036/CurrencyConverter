@@ -52,7 +52,7 @@ def convert(cur1, cur2, amount):
 
 def main():
     currencies = get_currencies()
-    print("Hello! Type List to get the list with all the currencies, Convert to convert from one to another and Rate to get the exchange rate of two currencies")
+    print("Hello! Type List to get the list of all the currencies, Convert to convert from one to another and Rate to get the exchange rate of two currencies")
     print()
     while True:
         command = input("Enter a command (q to quit)").lower()
