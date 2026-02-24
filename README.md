@@ -1,4 +1,4 @@
-💱 Currency Converter (CLI)
+# 💱 Currency Converter (CLI)
 
 A command-line currency converter written in Python.
 
@@ -9,11 +9,11 @@ It supports:
 (ii) viewing exchange rates;
 (iii) converting an amount between currencies.
 
-✨ Features:
+## ✨ Features:
 (i) Uses an external currency conversion API;
 (ii) Input validation + basic error handling;
 (iii) Caches currency list during runtime.
 
-🛠 Requirements:
-(i) Python 3.x;
-(ii) requests.
+## 🛠 Requirements:
+- Python 3.x;
+- requests.
