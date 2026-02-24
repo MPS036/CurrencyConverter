@@ -4,8 +4,8 @@ Currency Converter (CLI)
 A command-line currency converter that uses CurrencyConverterAPI endpoints.
 
 Requirements:
-(i) Environment variable: CURRENCY_API_KEY
-(ii) Dependency: requests
+(i) Environment variable: CURRENCY_API_KEY;
+(ii) Dependency: requests.
 
 Notes:
 - The free API may be unavailable at times (service-side limitation).
