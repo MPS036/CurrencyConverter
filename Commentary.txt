@@ -1,5 +1,0 @@
-The idea behind this project was to write a program which convert X amount of one currency to another using free API key
-from free.currencyconvertapi.com. But to date, I still have not received a reply email with the key.
-
-Unfortunately, without a key, I can't really make sure that this code is fully functional,
-but how does everything look working to me
